@@ -1,89 +1,18 @@
-# 👩‍🌾 RESAT_FarmingChallenge 🌾
-
-<a name="readme-top"></a>
-
-<!-- PROJECT LOGO -->
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <div width = "80" height="80">
-        <img src="https://miniintern-upload.s3.ap-northeast-2.amazonaws.com/35506/8e9a0f78-6d4c-450f-851d-42e7ec583101/%EC%9E%90%EC%82%B0-49.png" alt="logo"width="328" height="142">
-    </div>
-  </a>
-<h3 align="center">🌱RESAT | 파밍챌린지를 위한 레포지토리입니다.🌱</h3>
-<h3 align="center">기간: 23.06.19 ~ 23.06.30</h3>
-</div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>목차</summary>
-  <ol>
-    <li><a href="#프로젝트에-대해">🌱프로젝트에 대해</a></li>
-    <li><a href='#수행-일정'>🌱수행 일정</a></li>
-    <!-- <li><a href="#기술-스택">기술 스택</a></li>
-    <li><a href="#roadmap">Roadmap</a></li> -->
-  </ol>
-</details>
-<br/>
-
-<!-- ABOUT THE PROJECT -->
-
-## 🌱프로젝트에 대해
-
-본 프로젝트는 취업 루틴 만들기 챌린지입니다.
-하루에 한 가지씩 올라오는 미션에 대해 매일 인증합니다.
-[관련 링크](https://miniintern.com/event/2158)
-
-## 🌱수행 일정
-
-|         |                                                                                              |     |
-| ------- | -------------------------------------------------------------------------------------------- | --- |
-| 1일차   | GitHub에 프로젝트 레포지토리 만들기                                                          | ✅  |
-| 2일차   | [미니인턴 서비스 메인 페이지 클론](https://blcklamb.github.io/RESAT_FarmingChallenge/day02/) | ✅  |
-| 3일차   | [카운트다운 타이머 만들기](https://resat-farming-challenge-timer.vercel.app/)                | ✅  |
-| 4일차   | [To-Do 리스트 만들기](https://resat-farming-challenge-todo-list.netlify.app/)                | ✅  |
-| 5일차   | [캘린더 만들기](https://resat-farming-challenge-calendar.vercel.app/)                        | ✅  |
-| 6~8일차 | [이미지 슬라이드(캐러샐) 만들기](https://resat-farming-challenge-carousel.netlify.app/)      | ✅  |
-| 9일차   | [반응형 네비게이션 메뉴바 만들기](https://resat-farming-challenge-clone-page.vercel.app/)    | ✅  |
-| 10일차  | [로그인 페이지 만들기](https://resat-farming-challenge-login-page.netlify.app/)              | ✅  |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 기술 스택
-
-|         |                                                                                                     |
-| ------- | --------------------------------------------------------------------------------------------------- |
-| 2일차   | ![HTML][html-shield] ![CSS][css-shield]                                                             |
-| 3일차   | ![javascript][javascript-shield] ![REACT][react-shield] ![BOOTSTRAP][bootstrap-shield]              |
-| 4일차   | ![JAVASCRIPT][javascript-shield] ![REACT][react-shield] ![MUI][mui-shield]                          |
-| 5일차   | ![JAVASCRIPT][javascript-shield] ![REACT][react-shield]                                             |
-| 6-8일차 | ![JAVASCRIPT][javascript-shield] ![REACT][react-shield]                                             |
-| 9일차   | ![TYPESCRIPT][typescript-shield] ![REACT][react-shield] ![STYLEDCOMPONENT][styledcomponents-shield] |
-| 10일차  | ![TYPESCRIPT][typescript-shield] ![REACT][react-shield] ![ANTD][antdesign-shield]                   |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-<!-- ## 개선 사항
-
-- [ ] 작성 예정 1
-- [ ] 작성 예정 2
-- [ ] 작성 예정 3
-  - [ ] 작성 예정 -->
-
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[typescript-shield]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black
-[html-shield]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[css-shield]: https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[react-shield]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white
-[javascript-shield]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[bootstrap-shield]: https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
-[mui-shield]: https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white
-[styledcomponents-shield]: https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white
-[antdesign-shield]: https://img.shields.io/badge/antdesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white
+#RESAT_1_김O정 현직자 리뷰
+![표지](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/fa32769f-5734-4686-afa5-c4f6731b4c1b)
+![우수 수료자 현직자 코드 리뷰_김채정_2](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/d9947c93-848e-479a-8df2-d80d0e496a08)
+![우수 수료자 현직자 코드 리뷰_김채정_3](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/12f1f0ce-5f97-4844-87df-403a484ce9b5)
+![우수 수료자 현직자 코드 리뷰_김채정_5](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/836ae3f1-090e-4d5e-89a5-9c567d711ff0)
+![우수 수료자 현직자 코드 리뷰_김채정_6](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/c8202442-bf8e-4e63-a3da-1ff7ffc5dfb8)
+![우수 수료자 현직자 코드 리뷰_김채정_7](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/beaecd6f-a5fd-4c65-ba25-f076b6b1ed5d)
+![우수 수료자 현직자 코드 리뷰_김채정_8](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/630f70ce-07a3-4096-88dc-00f9d79ad8fe)
+![우수 수료자 현직자 코드 리뷰_김채정_9](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/c1f3afb8-f5f5-4819-b097-1f85a8d47efb)
+![우수 수료자 현직자 코드 리뷰_김채정_10](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/2973bccb-b491-4909-bd27-5c4687569942)
+![우수 수료자 현직자 코드 리뷰_김채정_11](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/d47920b9-df40-4194-9236-71aff1b37b67)
+![우수 수료자 현직자 코드 리뷰_김채정_12](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/0289ee12-0acf-4018-a7d4-1292de2cd868)
+![우수 수료자 현직자 코드 리뷰_김채정_13](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/a5add7bc-974c-4adb-89a9-0186cbf8493d)
+![우수 수료자 현직자 코드 리뷰_김채정_14](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/260fcf84-8098-4e9d-ab67-974d9811c2cf)
+![우수 수료자 현직자 코드 리뷰_김채정_16](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/328ad563-aacb-4a94-9193-550f77cd1991)
+![우수 수료자 현직자 코드 리뷰_김채정_17](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/d0766936-25a7-4c98-9076-7468a951d618)
+![우수 수료자 현직자 코드 리뷰_김채정_18](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/ef52e385-a19d-40d2-8c21-202bb3fdc4c6)
+![우수 수료자 현직자 코드 리뷰_김채정_19](https://github.com/miniintern/RESAT_1_kimOjung/assets/144213890/0fdc94ac-247a-4a6d-b0fd-521f4c3ea725)
